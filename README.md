@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Kamil - aka [slowkow][website] 👋 
 
-<!--
-**slowkow/slowkow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Check out my latest single-cell data browser: [Cell Guide][cellguide]
+- Browse other datasets at [Immunogenomics.io](https://immunogenomics.io)
 
-Here are some ideas to get you started:
+I am interested in opportunities to work on analysis and presentation of large-scale biomedical research data projects in 2022.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Website] | [Twitter] | [LinkedIn]
+
+[website]: https://slowkow.com
+[twitter]: https://twitter.com/slowkow
+[linkedin]: https://www.linkedin.com/in/kslowikowski
+[cellguide]: https://cell.guide
