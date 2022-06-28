@@ -10,9 +10,7 @@ find out what might be happening in the context of diseases like rheumatoid
 arthritis, immunotherapy-related colitis, and COVID-19.
 
 I am interested to hear about 100% remote work opportunities, so please feel
-free to get in touch if you are looking to chat with an experienced
-computational biologist. I am willing to provide advice to researchers,
-students, or learners who want to get involved in biomedical research.
+free to get in touch.
 
 I believe that it is important to make data easily accessible to all of my
 current and future collaborators. This motivates me to create bespoke websites
