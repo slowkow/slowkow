@@ -23,3 +23,12 @@ make these kinds of websites is with vanilla client-side Javascript.
 
 [1]: https://www.massgeneralbrigham.org/
 
+
+<table>
+<tr>
+  <td width="33%">
+    <img src="https://github.com/slowkow/slowkow/assets/209714/ffa053e8-d9b3-4314-bb7d-cb271f2210df"></img>
+  </td>
+  <td>170k cells from 350 patients. Each point represents a cell. Color represents a cell's assignment to a cluster of cells, based on its similarity to other cells. Each cell is embedded in 3 dimensions based on its gene expression profile. (<a href="https://gist.github.com/slowkow/a9907d8fdc2e85ce539ca4015983b893">Make your own animation in R.</a>)</td>
+</tr>
+</table>
