@@ -28,7 +28,10 @@ the human leukocyte antigen (HLA) genes.
   <td width="33%">
     <img src="https://github.com/slowkow/slowkow/assets/209714/ffa053e8-d9b3-4314-bb7d-cb271f2210df"></img>
   </td>
-  <td><b>Single cell RNA-seq data</b><p>170k cells from 350 patients. Each point represents a cell. Color represents a cell's assignment to a cluster of cells, based on its similarity to other cells. Each cell is embedded in 3 dimensions based on its gene expression profile. (<a href="https://gist.github.com/slowkow/a9907d8fdc2e85ce539ca4015983b893">Make your own animation in R.</a>)</p></td>
+  <td><b>Single cell RNA-seq data</b>
+    <p>170k cells from 350 patients. Each point represents a cell. Color represents a cell's assignment to a cluster of cells, based on its similarity to other cells. Each cell is embedded in 3 dimensions based on its gene expression profile. (<a href="https://gist.github.com/slowkow/a9907d8fdc2e85ce539ca4015983b893">Make your own animation in R.</a>)</p>
+    <p>Harmony can help to integrate many batches of high-dimensional data (<a href="https://github.com/immunogenomics/harmony">R package</a> or <a href="https://github.com/slowkow/harmonypy">Python package</a>).</p>
+  </td>
 </tr>
 </table>
 
@@ -37,6 +40,8 @@ the human leukocyte antigen (HLA) genes.
   <td width="33%">
     <a href="https://www.rcsb.org/structure/6py2"><img src="https://github.com/slowkow/awesome-vdj/assets/209714/7f322310-89b2-4398-bc2c-2aa730cd095c"></a>
   </td>
-  <td>A human HLA-TCR complex (<a href="https://www.rcsb.org/structure/6py2">6py2</a>). The HLA protein is at the bottom, and the TCR protein is on top. There is a peptide in between the two proteins.</td>
+  <td><p>A human HLA-TCR complex (<a href="https://www.rcsb.org/structure/6py2">6py2</a>). The HLA protein is at the bottom, and the TCR protein is on top. There is a peptide in between the two proteins.</p>
+    <p>Find tools and databases for analyzing HLA and VDJ genes at <a href="https://github.com/slowkow/awesome-vdj">slowkow/awesome-vdj</a>.</p>
+  </td>
 </tr>
 </table>
