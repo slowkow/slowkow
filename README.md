@@ -40,7 +40,9 @@ the human leukocyte antigen (HLA) genes.
   <td width="33%">
     <a href="https://www.rcsb.org/structure/6py2"><img src="https://github.com/slowkow/awesome-vdj/assets/209714/7f322310-89b2-4398-bc2c-2aa730cd095c"></a>
   </td>
-  <td><p>A human HLA-TCR complex (<a href="https://www.rcsb.org/structure/6py2">6py2</a>). The HLA protein is at the bottom, and the TCR protein is on top. There is a peptide in between the two proteins.</p>
+  <td>
+    <b>A human HLA-TCR complex (<a href="https://www.rcsb.org/structure/6py2">6py2</a>)</b>
+    <p>Two human proteins. The <b>HLA protein</b> (pink and purple subunits) is at the bottom and it is presenting a <b>peptide</b> (green) to the <b>TCR protein</b> (orange and yellow subunits) on top. The peptide is a fragment of the glutenin protein from wheat flour. This presentation mechanism is the basis for our adaptive immunity that protects us from pathogens and cancers, but it can also make us susceptible to autoimmune diseases.</p>
     <p>Find tools and databases for analyzing HLA and VDJ genes at <a href="https://github.com/slowkow/awesome-vdj">slowkow/awesome-vdj</a>.</p>
   </td>
 </tr>
